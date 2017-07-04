@@ -1,0 +1,14 @@
+VimClojure
+lightline.vim
+molokai
+neobundle.vim
+neocomplcache
+neosnippet
+syntastic
+unite-colorscheme
+unite.vim
+vim-slime
+vim-textmanip
+vimfiler.vim
+vimproc
+vimshell
