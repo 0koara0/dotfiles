@@ -114,12 +114,15 @@ bindkey '^R' history-incremental-pattern-search-backward
 
 alias la='ls -a'
 alias ll='ls -l'
-
+#操作の確認
 alias rm='rm -i'
 alias cp='cp -i'
 alias mv='mv -i'
-
+#サブディレクトリごと作成できる
 alias mkdir='mkdir -p'
+
+#ディレクトリスタックに番号を振って見やすくする
+alias dirs='dirs -v'
 
 # sudo の後のコマンドでエイリアスを有効にする
 alias sudo='sudo '
